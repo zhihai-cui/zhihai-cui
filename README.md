@@ -1,7 +1,7 @@
 # Hi, I'm Cui Zhihai👋
 
 ## Educational Background
-Jinan University|Optoelectronic Information Science and Engineering|Grade 2021|Undergraduate student
+Jinan University|Optoelectronic Information Science and Engineering|Grade 2021|Undergraduate student<br>
 Jinan University|Electronic Information|Grade 2025|Graduate student
 
 ## Area of Interest
